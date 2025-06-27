@@ -1,0 +1,273 @@
+[
+    "6",
+    "31",
+    "player:743788",
+    "phx_reply",
+    {
+        "status": "ok",
+        "response": {
+            "actors": [
+                {
+                    "active_skill": {
+                        "activate_skill_point": 1,
+                        "description": "造成敵方前線幹部100%ATK傷害，並在1回合內使其DEF-20%。\n",
+                        "image": "/images/active_skill/SKFROR03_1.png",
+                        "level": "I",
+                        "name": "風蕭蕭兮"
+                    },
+                    "actor_category_decor": "/images/actor_category/decor/cadrecardS.png",
+                    "actor_category_icon": "/images/actor_category/icon/cadre2.png",
+                    "actor_category_order": 30,
+                    "actor_prototype": {
+                        "active_skills": [
+                            {
+                                "activate_skill_point": 1,
+                                "background": "/images/actor_category/active_skill_background/S.png",
+                                "description": "造成敵方前線幹部100%ATK傷害，並在1回合內使其DEF-20%。\n",
+                                "id": 64,
+                                "image": "/images/active_skill/SKFROR03_1.png",
+                                "level": "I",
+                                "name": "風蕭蕭兮"
+                            }
+                        ],
+                        "actor_category": {
+                            "font_color": "#65d56a",
+                            "id": 2,
+                            "name": "間諜"
+                        },
+                        "blood_base_value": 24000,
+                        "blood_elevation_value": 2250,
+                        "description": "出生後不久因為一場高燒，失去了視力與說話能力。母親病逝後，與身為貧農的父親相依為命。5歲時隨父親到城裡，被人口販子拐賣到洛陽近郊，在囚禁中渡過悲慘的歲月。13歲，一位退伍軍人將她救出、帶到敦煌扶養，並且將畢身武藝教給她⋯⋯",
+                        "ethnic_group": "秦",
+                        "family": "長安",
+                        "id": 43,
+                        "name": "未央",
+                        "offense_base_value": 2300,
+                        "offense_elevation_value": 230,
+                        "origin": "自由勢力出身",
+                        "religion": "無",
+                        "religion_icon": "/images/religion/irreligion_irreligion.png",
+                        "sponsor": null,
+                        "sponsor_gratitude": null,
+                        "sponsor_image": null,
+                        "talent_1": "缺月漏未央 明滅照秋床",
+                        "talent_2": "ATK+25% HP+30%<br/>滿洲成員DEF+20%",
+                        "vanguard": true
+                    },
+                    "blood": 203520,
+                    "can_evolute": false,
+                    "flag": "/images/home/flag/bigflag00FR.png",
+                    "gif_image": "/images/actor/gif/tachieFROR03.gif",
+                    "half_image": "/images/actor/half/bustFROR03.png",
+                    "head_image": "/images/actor/head/avatarFROR03.png",
+                    "id": 1024517,
+                    "level": 80,
+                    "level_cap": 80,
+                    "nation": "自由勢力",
+                    "nation_icon": null,
+                    "nation_id": 9,
+                    "nation_order": 100,
+                    "no_weapon_image": "/images/weapon/w04X.png",
+                    "no_weapon_name": "刀劍",
+                    "offense": 22240,
+                    "outfits": [
+                        {
+                            "id": 47,
+                            "image": "/images/actor/gif/tachieFROR03.gif",
+                            "name": "未央"
+                        }
+                    ],
+                    "passive_skills": [
+                        {
+                            "description": "自身攻擊力+5% 滿洲陣營成員受到傷害-5% 血量+0",
+                            "level": 10
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 20
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 30
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 40
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 50
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 60
+                        },
+                        {
+                            "description": "攻擊力+0 受到傷害0% 自身血量+5%",
+                            "level": 70
+                        },
+                        {
+                            "description": "自身攻擊力+5% 滿洲陣營成員受到傷害-5% 血量+0",
+                            "level": 80
+                        },
+                        {
+                            "description": "自身攻擊力+5% 滿洲陣營成員受到傷害-5% 血量+0",
+                            "level": 90
+                        },
+                        {
+                            "description": "自身攻擊力+10% 滿洲陣營成員受到傷害-5% 血量+0",
+                            "level": 100
+                        }
+                    ],
+                    "scarcity": "SSR",
+                    "scarcity_icon": "/images/scarcity/icon/s_SSR.png",
+                    "scarcity_image": "/images/scarcity/image/b_SSR.png",
+                    "scarcity_order": 1,
+                    "skill": 49000,
+                    "skill_percentage": 1,
+                    "team": {
+                        "alphabet_image": "/images/team/A.png",
+                        "alphabet_in_team": "A",
+                        "id": 85006,
+                        "position_in_team": 1,
+                        "power": 235,
+                        "team_number": 1,
+                        "team_roman_number": "I"
+                    },
+                    "usable_weapon_ids": [
+                        59673,
+                        59634
+                    ],
+                    "weapon": {
+                        "id": 59673,
+                        "level": 50,
+                        "skill": 0,
+                        "weapon_prototype": {
+                            "description": "排灣族的青銅刀<br/>蘊含豐沛的斬劈之力",
+                            "image": "/images/weapon/w04B.png",
+                            "name": "強化刀劍符文",
+                            "power": "中"
+                        },
+                        "weapon_prototype_id": 11
+                    }
+                },
+                {
+                    "active_skill": {
+                        "activate_skill_point": 1,
+                        "description": "1回合內自身ATK+70% DEF-20%。\n",
+                        "image": "/images/active_skill/SKFROR02_1.png",
+                        "level": "I",
+                        "name": "成功成仁"
+                    },
+                    "actor_category_decor": "/images/actor_category/decor/cadrecardPt.png",
+                    "actor_category_icon": "/images/actor_category/icon/cadre3.png",
+                    "actor_category_order": 20,
+                    "actor_prototype": {
+                        "active_skills": [
+                            {
+                                "activate_skill_point": 1,
+                                "background": "/images/actor_category/active_skill_background/Pt.png",
+                                "description": "1回合內自身ATK+70% DEF-20%。\n",
+                                "id": 79,
+                                "image": "/images/active_skill/SKFROR02_1.png",
+                                "level": "I",
+                                "name": "成功成仁"
+                            }
+                        ],
+                        "actor_category": {
+                            "font_color": "#ecdb94",
+                            "id": 3,
+                            "name": "資助者"
+                        },
+                        "blood_base_value": 16500,
+                        "blood_elevation_value": 3900,
+                        "description": "柴達木盆地上的馬幫，因為善於經營，累積了不少財富，同時也經營餐館。祖父在青海馬家軍的騎兵擔任排長，曾在河南與日軍交戰，後來又與紅軍在甘肅多次交手。祖父的事蹟與馬刀都成了禁忌，在屋子的牆裡塵封半世紀。 ",
+                        "ethnic_group": "回",
+                        "family": "甘肅臨夏",
+                        "id": 48,
+                        "name": "馬胡塞",
+                        "offense_base_value": 1100,
+                        "offense_elevation_value": 250,
+                        "origin": "自由勢力出身",
+                        "religion": "伊斯蘭教遜尼派",
+                        "religion_icon": "/images/religion/islam_sunni.png",
+                        "sponsor": null,
+                        "sponsor_gratitude": null,
+                        "sponsor_image": null,
+                        "talent_1": "西去的騎手 馬刀向河湟",
+                        "talent_2": "ATK+20% DEF+30%",
+                        "vanguard": true
+                    },
+                    "blood": 78900,
+                    "can_evolute": true,
+                    "flag": "/images/home/flag/bigflag00FR.png",
+                    "gif_image": "/images/actor/gif/tachieFROR02.gif",
+                    "half_image": "/images/actor/half/bustFROR02.png",
+                    "head_image": "/images/actor/head/avatarFROR02.png",
+                    "id": 1024528,
+                    "level": 17,
+                    "level_cap": 30,
+                    "nation": "自由勢力",
+                    "nation_icon": null,
+                    "nation_id": 9,
+                    "nation_order": 100,
+                    "no_weapon_image": "/images/weapon/w04X.png",
+                    "no_weapon_name": "刀劍",
+                    "offense": 5100,
+                    "outfits": [
+                        {
+                            "id": 46,
+                            "image": "/images/actor/gif/tachieFROR02.gif",
+                            "name": "馬胡塞"
+                        }
+                    ],
+                    "passive_skills": [
+                        {
+                            "description": "自身攻擊力+5% 自身受到傷害-5% 血量+0",
+                            "level": 10
+                        },
+                        {
+                            "description": "自身攻擊力+5% 受到傷害0% 血量+0",
+                            "level": 20
+                        },
+                        {
+                            "description": "攻擊力+0 自身受到傷害-5% 血量+0",
+                            "level": 30
+                        },
+                        {
+                            "description": "自身攻擊力+5% 自身受到傷害-10% 血量+0",
+                            "level": 40
+                        },
+                        {
+                            "description": "自身攻擊力+5% 自身受到傷害-10% 血量+0",
+                            "level": 50
+                        }
+                    ],
+                    "scarcity": "R",
+                    "scarcity_icon": null,
+                    "scarcity_image": "/images/scarcity/image/b_R.png",
+                    "scarcity_order": 3,
+                    "skill": 216000,
+                    "skill_percentage": 67,
+                    "team": {
+                        "alphabet_image": "",
+                        "alphabet_in_team": "",
+                        "id": null,
+                        "position_in_team": "",
+                        "power": null,
+                        "team_number": null,
+                        "team_roman_number": null
+                    },
+                    "usable_weapon_ids": [
+                        59673,
+                        59634
+                    ],
+                    "weapon": null
+                }
+            ],
+            "preloads": [
+                "path/to/assets"
+            ]
+        }
+    }
+]
