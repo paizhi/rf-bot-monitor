@@ -6,6 +6,13 @@ import { UnionActivityLogger } from './UnionActivityLogger';
 import { OnlineStatusService } from './OnlineStatusService';
 import { UnionMovementLogger } from './UnionMovementLogger';
 import { MonitoredUnionService } from './MonitoredUnionService';
+import http from 'http';
+
+http.createServer((_, res) => {
+  res.writeHead(200);
+  res.end('Bot is running');
+}).listen(process.env.PORT || 3000);
+
 
 const client = new Client({
     intents: [
