@@ -1,2 +1,16 @@
+type: worker
+name: rf-bot
+env: node
+
 buildCommand: npm install && npm run build
 startCommand: npm start
+
+plan: free  # 可改為 starter/professional，依你資源需求
+region: singapore
+
+# 建議可加入環境變數設定（如果你用 dotenv）
+envVars:
+  - key: DISCORD_TOKEN
+    sync: false
+  - key: NODE_ENV
+    value: production
